@@ -25,6 +25,8 @@ Mac and Linux:
 ```bash
   python main.py
 ```
+## Screenshot
+![alt text](https://cryptomesh.net/wp-content/uploads/2024/09/firewall.png)
 ## Feedback
 
 📨 If you have any feedback, please reach out to:
